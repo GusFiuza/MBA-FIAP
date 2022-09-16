@@ -17,8 +17,6 @@ flowchart LR
 ```
 
 ## Atividades
-- Podemos trabalhar uma proposta de intra-empreendedorismo?
-- Um projeto só para o banco?
 - Fechar nossos financiadores e usuários (*)
 - Apresentação/Pitch
 - Trabalho escrito
