@@ -16,7 +16,6 @@ flowchart LR
 ```
 
 ## Atividades
-- Fechar nossos financiadores e usuários (*)
 - Apresentação/Pitch
 - Trabalho escrito
     - Caracterização do projeto/startup
